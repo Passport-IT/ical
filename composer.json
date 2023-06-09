@@ -1,5 +1,5 @@
 {
-  "name": "lukeusher/ical",
+  "name": "passport-it/ical",
   "description": "Provides a facade for the eluceo/ical package.",
   "keywords": ["laravel", "ical"],
   "license": "MIT",
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "LukeUsher\\Ical\\": "src/"
+      "Passport-IT\\Ical\\": "src/"
     }
   }
 }
